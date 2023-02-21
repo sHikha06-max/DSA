@@ -34,3 +34,5 @@ var isValid = function(s) {
     return false;
     }  
 };
+
+//Time Complexity O(N)
